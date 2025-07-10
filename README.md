@@ -10,15 +10,13 @@ A contemporary, vibrant Tic Tac Toe game developed using HTML, CSS, and JavaScri
 - Win detection + winning cell highlight
 - Fully responsive and GitHub Pages ready
 
-  ## File Structure
+  ## FileStructure
+tictactoe.html # Main game HTML
+tictactoe.css # Game styling with colorful UI
+tictactoe.js # Game logic (win check, turns, etc.)
+README.md # You're here!
 
-tic-tac-toe/
-├── index.html # Main game HTML
-├── style.css # Game styling with colorful UI
-├── script.js # Game logic (win check, turns, etc.)
-└── README.md # You're here!
-
-Visit: https://github.com/jaswanth-abhishek/Tic-Tac-Toe
+## Visit this link: https://github.com/jaswanth-abhishek/Tic-Tac-Toe
 
 
 ## Credits
