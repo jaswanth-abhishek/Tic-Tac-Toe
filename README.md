@@ -10,11 +10,7 @@ A contemporary, vibrant Tic Tac Toe game developed using HTML, CSS, and JavaScri
 - Win detection + winning cell highlight
 - Fully responsive and GitHub Pages ready
 
-  ## FileStructure
-tictactoe.html # Main game HTML
-tictactoe.css # Game styling with colorful UI
-tictactoe.js # Game logic (win check, turns, etc.)
-README.md # You're here!
+
 
 Built with using:
 HTML5
