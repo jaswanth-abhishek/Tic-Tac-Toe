@@ -16,10 +16,6 @@ tictactoe.css # Game styling with colorful UI
 tictactoe.js # Game logic (win check, turns, etc.)
 README.md # You're here!
 
-## Visit this link: https://github.com/jaswanth-abhishek/Tic-Tac-Toe
-
-
-## Credits
 Built with using:
 HTML5
 CSS3 
